@@ -1,3 +1,5 @@
 # login & sign-up-page
 
-some changes will be made soon
+This is  a basic login and signup page.
+*The login page is shown below.
+![Screenshot of login page](C:\Users\jesse\OneDrive\Pictures\Screenshots\logindivpagecss.png)
