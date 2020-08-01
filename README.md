@@ -2,10 +2,10 @@
 
 This is  a basic login and signup page.
 * The login page is shown below.
-![logindivpagecss](https://user-images.githubusercontent.com/40341693/89086871-e34b2b00-d39a-11ea-813d-2eeacbadf3e3.png)
+![logindivpagecss](https://user-images.githubusercontent.com/39020723/89102629-d1f23500-d413-11ea-897f-95d22eabdb67.png)
 
 * The sign up page is shown below
-![signupdivcss](https://user-images.githubusercontent.com/40341693/89086977-3b822d00-d39b-11ea-9bf7-cd772c39d6cb.png)
+![signupdivcss](https://user-images.githubusercontent.com/39020723/89102628-cef74480-d413-11ea-9803-49fc87952e07.png)
 
-* Since background to these forms is white, the next step would be to make the the background blurry and colourless,pull requests on the same are appreciated in advance.
+* Some mods were carried out by @leonkoech including making the form semi-transparent and adding a background image to the body to make the semi-transparency visible among other changes.
 
